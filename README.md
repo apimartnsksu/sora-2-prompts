@@ -10,7 +10,7 @@
   <img src="assets/01-product-ad-ceramic-mug-thumb.jpg" width="820" alt="Sora 2 (sora-2) output preview generated through APIMart">
 </p>
 
-> per generated second — one OpenAI-compatible endpoint at `https://api.apimart.ai/v1`, no monthly plan required. *(observed 2026-10-12)*
+> **$0.08 per second** at 720P — one OpenAI-compatible endpoint at `https://api.apimart.ai/v1`, no monthly plan required. *(observed 2026-10-12)*
 
 **[Get an API key](https://go.apimart.ai/k-919f90)** · **[Live pricing](https://go.apimart.ai/k-baf38f)** · **[Model page](https://go.apimart.ai/k-a8b7e2)** · [⚡ 60-second quickstart](#quickstart)
 
